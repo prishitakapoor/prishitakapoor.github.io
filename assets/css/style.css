@@ -288,7 +288,7 @@ h3 {
 
 
 #intro.section {
-  background: #ffd9ff repeat;
+  background: #d2f8d2 repeat;
   position: relative;
 }
 
@@ -512,7 +512,7 @@ small {
 
 
 .teal {
-  background-color: #c8a2c8 !important;
+  background-color: #d2f8d2 !important;
 }
 
 
@@ -553,7 +553,7 @@ small {
     position: absolute;
   }
   nav a.button-collapse, nav a.button-collapse i {
-    color: #c8a2c8;
+    color: #d2f8d2;
     height: 56px;
     line-height: 56px;
   }
