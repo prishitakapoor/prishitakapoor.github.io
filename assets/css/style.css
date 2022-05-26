@@ -99,7 +99,7 @@
   position: relative;
   padding: 11px 35px;
   background: #fff;
-  color: #c8a2c8;
+  color: #4ee44e;
   border: 2px solid #fff;
   font-weight: 600;
   font-size: 15px;
@@ -127,7 +127,7 @@
 }
 
 .contactme:hover{
-  color: #c8a2c8;
+  color: #4ee44e;
   background-color: white;
 }
 /* main body */
@@ -144,14 +144,14 @@ body {
 
 
 a {
-  color: #ffd9ff;
+  color: #d2f8d2;
 }
 
 
 
 blockquote {
-  border-left: 5px solid #ffd9ff;
-  color: #ffd9ff;
+  border-left: 5px solid #d2f8d2;
+  color: #d2f8d2;
   font-size: 125%;
   font-weight: 400;
   margin: 20px 0;
@@ -216,7 +216,7 @@ ul.side-nav li {
 
 ul.side-nav.fixed a {
   box-sizing: content-box;
-  color: rgb(200, 162, 200);
+  color: rgb(210,248,210);
   display: block;
   line-height: 100%;
   padding: 10px 0 12px;
