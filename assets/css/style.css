@@ -21,9 +21,9 @@
 }
 
 .tracker {
-  /* visibility: hidden; */
+  
   position: fixed;
-  /* margin-inline-end: auto;  */
+  
   bottom: 0; 
   right: 0;
 }
@@ -33,7 +33,6 @@
   margin: 0 auto;
   width: auto;
   text-align: inherit;
-  /* padding: 10px; */
 }
 
 .icon-btn {
@@ -151,8 +150,8 @@ a {
 
 
 blockquote {
-  border-left: 5px solid #795548;
-  color: #795548;
+  border-left: 5px solid #ffd9ff;
+  color: #ffd9ff;
   font-size: 125%;
   font-weight: 400;
   margin: 20px 0;
@@ -168,7 +167,7 @@ blockquote * {
   text-align: center;
 }
 
-/* main nav */
+
 
 nav {
   background: white;
@@ -176,11 +175,7 @@ nav {
   height: 0;
 }
 
-/* nav {
-  background: rgb(149, 126, 212);
-  box-shadow: none;
-  height: 0;
-} */
+
 
 nav i {
   padding: 0 15px;
@@ -188,12 +183,7 @@ nav i {
   top: 5px;
 }
 
-/* main */
 
-/* main {
-  background: url(../../assets/img/bg.png) repeat;
-  padding-left: 190px;
-} */
 
 main {
   background: url(../../assets/img/bg.png) repeat;
@@ -223,13 +213,6 @@ ul.side-nav li {
   padding: 0;
 }
 
-/* ul.side-nav.fixed a {
-  box-sizing: content-box;
-  color: rgb(48, 122, 207);
-  display: block;
-  line-height: 100%;
-  padding: 10px 0 12px;
-} */
 
 ul.side-nav.fixed a {
   box-sizing: content-box;
@@ -244,13 +227,7 @@ ul.table-of-contents li.logo a.active, ul.table-of-contents li.logo a:hover {
   font-weight: 200;
 }
 
-/* ul.side-nav.fixed li.logo {
-  background-color: #fafafa;
-  border-bottom: 1px solid #ddd;
-  box-sizing: content-box;
-  min-height: 90px;
-  padding: 30px 30px 40px;
-} */
+
 
 ul.side-nav.fixed li.logo {
   background-color: #fafafa;
@@ -308,12 +285,7 @@ h3 {
   height: 100vh;
 }
 
-/* Original */
 
-/* #intro.section {
-  background: url(../../assets/img/white-ai-wallpaper.jpg) no-repeat top center/cover;
-  position: relative;
-} */
 
 #intro.section {
   background: #ffd9ff repeat;
@@ -328,12 +300,7 @@ h3 {
   top: 0;
 }
 
-/* #intro.section .container *:not(span) {
-  font-weight: 300;
-  line-height: 150%;
-  padding: 0 30px;
-  text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
-} */
+
 
 #intro.section .container *:not(span) {
   font-weight: 300;
@@ -361,8 +328,7 @@ h3 {
 }
 
 .waves-effect.waves-blue .waves-ripple {
-  /* The alpha value allows the text and background color
-   of the button to still show through. */
+  
   background-color: rgba(33, 150, 243, 0.2);
 }
 
@@ -462,14 +428,10 @@ a.hoverline {
   -webkit-transition: 0.25s all;
 }
 
-/* main a.hoverline */
 
-/* a.hoverline:hover {
-  border-bottom: 3px solid #24305e !important;
-} */
 
 a.hoverline:hover {
-  border-bottom: 3px solid #004d40 !important;
+  border-bottom: 3px solid #c8a2c8 !important;
 }
 
 #skills .card.large {
@@ -548,19 +510,12 @@ small {
   color: #008073 !important;
 }
 
-/* .teal-text {
-  color: #0b5e86 !important;
-} */
-
-/* .teal */
 
 .teal {
-  background-color: #ffd9ff !important;
+  background-color: #c8a2c8 !important;
 }
 
-/* .teal {
-  background-color: #00695c !important;
-} */
+
 
 @media (min-width: 1200px) {
   #experience .container {
