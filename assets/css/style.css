@@ -5,10 +5,10 @@
   width: auto;
   height: auto;
   overflow: hidden;
-  /* display: inline-block; */
+ 
   
   
-  /* background-size: cover;  */
+
   margin: -31px; 
   margin-left:-7px;
   border: 6px solid rgba(0, 77, 64, 0.4); 
@@ -94,7 +94,7 @@
   background-color: black;
 }
 
-/* Buttons - Read Me, Contact Us */
+
 
 .readme {
   position: relative;
@@ -110,10 +110,7 @@
   -webkit-border-radius: 5px;
 }
 
-/* .readme:hover{
-  color: white;
-  background-color: #00796b;
-} */
+
 
 .contactme {
   position: relative;
@@ -143,31 +140,15 @@ body {
   font-size: 18px;
 }
 
-/* body {
-  color: black;
-  font-size: 18px;
-} */
 
-/* main a -- links */
 
-/* a {
-  color: #009688;
-} */
+
 
 a {
   color: #c8a2c8;
 }
 
-/* main blockqoute */
 
-/* blockquote {
-  border-left: 5px solid #795548;
-  color: #795548;
-  font-size: 125%;
-  font-weight: 400;
-  margin: 20px 0;
-  padding-left: 1.5rem;
-} */
 
 blockquote {
   border-left: 5px solid #795548;
@@ -617,7 +598,7 @@ small {
     position: absolute;
   }
   nav a.button-collapse, nav a.button-collapse i {
-    color: #ffd9ff;
+    color: #c8a2c8;
     height: 56px;
     line-height: 56px;
   }
