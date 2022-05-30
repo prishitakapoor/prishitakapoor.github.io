@@ -1,8 +1,3 @@
-# Personal Portfolio 
-> A clean, beautiful, responsive portfolio template for Software Developers!
-
-> https://prishitakapoor.github.io
-
 
 ## Features
 ⚡️ Fully Responsive\
